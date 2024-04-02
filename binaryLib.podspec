@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/zhaoliang09/binaryLib'
+  s.homepage         = 'https://github.com/Teemo-CN/binaryLib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zhaoliang09' => 'zhaoliang09@zuoyebang.com' }
-  s.source           = { :git => 'https://github.com/zhaoliang09/binaryLib.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:Teemo-CN/binaryLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'

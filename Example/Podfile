@@ -2,6 +2,8 @@ use_frameworks!
 
 platform :ios, '10.0'
 
+ENV['SWIFT_VERSION'] = '5'  
+
 target 'binaryLib_Example' do
   pod 'binaryLib', :path => '../'
 
