@@ -1,0 +1,16 @@
+PODS:
+  - binaryLib (0.1.0)
+
+DEPENDENCIES:
+  - binaryLib (from `../`)
+
+EXTERNAL SOURCES:
+  binaryLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  binaryLib: 0be6becbb322e457828d88b8f27cf8ac9b8afde2
+
+PODFILE CHECKSUM: d8c5bd5b46f403abd4b681641b6a727593105673
+
+COCOAPODS: 1.15.0

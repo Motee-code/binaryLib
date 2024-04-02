@@ -1,0 +1,22 @@
+{
+  "name": "binaryLib",
+  "version": "0.1.0",
+  "summary": "A short description of binaryLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhaoliang09/binaryLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhaoliang09": "zhaoliang09@zuoyebang.com"
+  },
+  "source": {
+    "git": "https://github.com/zhaoliang09/binaryLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "binaryLib/Classes/**/*"
+}
